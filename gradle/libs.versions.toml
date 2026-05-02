@@ -1,6 +1,6 @@
 [versions]
 relative = "3.2.2"
-argue = "2.24.1"
+argue = "2.25.4"
 
 [libraries]
 relative = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "relative" }
