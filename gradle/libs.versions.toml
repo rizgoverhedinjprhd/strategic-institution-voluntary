@@ -1,5 +1,5 @@
 [versions]
-relative = "3.2.2"
+relative = "3.4.3"
 argue = "2.24.1"
 
 [libraries]
